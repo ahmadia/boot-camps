@@ -1,7 +1,7 @@
 % Software Carpentry - Overview
-  Tufts University
+  University of Washington
 % Software Carpentry Team
-% June, 2013
+% July, 2013
 
 ## Copy This Lecture!
 <br></br>
@@ -56,19 +56,18 @@
 ## Who We Are
 
 * Aron Ahmadia
-* Jessica McKellar
-* R. David Murray
-* Michael Selik
-* Will Trimble
+* Kyle Mandli
+* Jens von der Linden
+* Jake VanderPlas
 
 ## Our Goals for You
 
 ### We will take you on a tour of:
 >
 * Exploring the Command Line with the Bash Shell
-* Principles of Practical Programming with Python
+* Principles of Practical Scientific Programming with Python
 * Managing and Collaborating with your Software, Data, and Manuscripts with Git
-* Scientific Computing with Python
+* Scientific Software Engineering
 
 # Some High-Level Advice
 
